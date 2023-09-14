@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYB9M8SKD/2xET3VU2Xdv5LKXMhPrnUEmIj0q0Le5dxyERkOvy9R92hj4sTjn21LkEDqz3Ltmr1YSA0nZdhJMg==",
+  "success": true,
+  "projectFilePath": "/Users/afaq/Desktop/Android/c# playground/csharp colsole app/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/afaq/.nuget/packages/contrib.grpc.core.m1/2.41.0/contrib.grpc.core.m1.2.41.0.nupkg.sha512",
+    "/Users/afaq/.nuget/packages/google.protobuf/3.24.3/google.protobuf.3.24.3.nupkg.sha512",
+    "/Users/afaq/.nuget/packages/grpc.core/2.46.6/grpc.core.2.46.6.nupkg.sha512",
+    "/Users/afaq/.nuget/packages/grpc.core.api/2.57.0/grpc.core.api.2.57.0.nupkg.sha512",
+    "/Users/afaq/.nuget/packages/grpc.tools/2.58.0/grpc.tools.2.58.0.nupkg.sha512",
+    "/Users/afaq/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
