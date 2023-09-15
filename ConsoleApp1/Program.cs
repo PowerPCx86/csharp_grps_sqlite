@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        start_server();
+        //start_server();
         start_client();
         Console.WriteLine("press any key to quit...");
         Console.ReadKey();
@@ -24,7 +24,7 @@ class Program
     {
         Console.WriteLine("starting client");
         
-        const string server_ip = "195.168.20.130";
+        const string server_ip = "195.168.20.123";
         const int port = 50051;
         
         var channel = new Channel($"{server_ip}:{port}", ChannelCredentials.Insecure);
