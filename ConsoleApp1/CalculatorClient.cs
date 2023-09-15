@@ -2,7 +2,6 @@ namespace ConsoleApp1;
 
 using System.Threading.Tasks;
 using Grpc.Core;
-//using GrpcConsoleApp;
 
 public class CalculatorClient
 {

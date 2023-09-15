@@ -23,7 +23,7 @@ public class CalculatorServer
         _server = new Server
         {
             Services = { Calculator.BindService(new CalculatorService()) },
-            Ports = { new ServerPort("localhost", 50051, ServerCredentials.Insecure) }
+            Ports = { new ServerPort("195.168.20.130", 50051, ServerCredentials.Insecure) }
         };
     }
 
